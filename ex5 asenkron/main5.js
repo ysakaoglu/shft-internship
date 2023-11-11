@@ -22,7 +22,7 @@ async function getCountries() {
 getCountries()
 
 
-/*fetch(countriesAPI) ..
+/*fetch(countriesAPI) ...
     .then(response => response.json()).then(data => {
         data.forEach(country=> {
         console.log(`Ülke: ${country.name}`)
