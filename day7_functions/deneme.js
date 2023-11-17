@@ -1,1 +1,5 @@
-console.log("asdf")
+function egzersizlerYapilmadiUzgunum() {
+  console.log("egzersiz ornegi")
+}
+
+egzersizlerYapilmadiUzgunum();
