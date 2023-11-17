@@ -161,6 +161,8 @@ function printArray(arr)
     });
 }
 
+//isprime
+
 function isPrime(number) 
 {
     if (number <= 1) return false;
@@ -176,3 +178,6 @@ function isPrime(number)
 
     return true;
 }
+
+console.log(isPrime(8));
+console.log(isPrime(11));
